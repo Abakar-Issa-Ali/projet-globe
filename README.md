@@ -1,4 +1,4 @@
-# ProjetGlobe — Refonte de l'intranet
+# ProjetGlobe - Refonte de l'intranet
 
 > **Un intra pour les gouverner tous.** Dossier de cadrage et de conception de la refonte de l'intranet d'un organisme de formation : un projet sur plusieurs années, livré en plusieurs versions, conçu pour pouvoir devenir un SaaS.
 
